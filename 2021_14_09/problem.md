@@ -16,3 +16,4 @@ def spin_words(string)
   #TODO
 end
 ```
+link to: https://www.codewars.com/kata/5264d2b162488dc400000001/train/ruby
